@@ -5,7 +5,7 @@ import numpy as np
 np.random.seed(42)
 
 # Generate random features
-num_samples = 100
+num_samples = 10000
 num_features = 5
 
 # Randomly generate feature values
